@@ -9,6 +9,6 @@ export const config = {
     tokenListAddress: "0xFB521Db5f457a13527870b4668a08D9F98ea42B8",
     uniswapFactoryAddress: "0x3aD37C7dEBD04F3934204aF157a6Da5533d938A9",
     uniswapRouterAddress: "0xbc524D12A581B66450b185274105995Dee491a50",
-    targetInteractorAddress: "0x1AB34eb1df3Fd0f104A25adBC610Cc749a38443E",
+    targetInteractorAddress: "0xed40C7a920B2E5e26432804ab586aD0dDaaCe418",
     sourceInteractorAddress: "0x4272900e550909bf535e6b2b4F6D8E96944429eC",
 }
